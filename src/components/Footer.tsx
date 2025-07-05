@@ -66,7 +66,7 @@ const Footer = () => {
             <div className="mb-4">
               <h6 className="fw-bold">اشترك في النشرة الإخبارية</h6>
               <div className="input-group">
-                <input type="email" className="form-control" placeholder="بريدك الإلكتروني">
+                <input type="email" className="form-control" placeholder="بريدك الإلكتروني" />
                 <button className="btn btn-primary">اشتراك</button>
               </div>
             </div>
